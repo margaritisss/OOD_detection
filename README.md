@@ -1,6 +1,6 @@
 # Out-of-Distribution Detection and Neural Collapse Analysis
 
-**Authors:** Liam Loughman and Georgios Margaritis
+**Authors:** Georgios Margaritis and Liam Loughman
 
 ## Overview
 This project explores Out-of-Distribution (OOD) detection methods using a ResNet-18 model trained on CIFAR-100 (In-Distribution) and tested against CIFAR-10 (Out-of-Distribution). 
