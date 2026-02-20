@@ -2,6 +2,9 @@
 
 **Authors:** Georgios Margaritis and Liam Loughman
 
+## The Report 
+Please find our report in the [link](https://drive.google.com/file/d/1lqgxPBOZ1iN8fc27WwnA5lm2P2OWC6Tr/view?usp=sharing)
+
 ## Overview
 This project explores Out-of-Distribution (OOD) detection methods using a ResNet-18 model trained on CIFAR-100 (In-Distribution) and tested against CIFAR-10 (Out-of-Distribution). 
 
@@ -26,5 +29,3 @@ To run this notebook, you will need a Python environment with Jupyter Notebook a
    pip install requirements.txt
 3. **Download the weights of the model** from the [link](https://drive.google.com/file/d/1ksITLO8oXzHGmPJ84isre7nyH1AAwalq/view?usp=drive_link) if you don't want to train the model from scratch.
 
-## The Report 
-Please find our report in the [link](https://drive.google.com/file/d/1lqgxPBOZ1iN8fc27WwnA5lm2P2OWC6Tr/view?usp=sharing)
